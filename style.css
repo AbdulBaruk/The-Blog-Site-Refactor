@@ -1,0 +1,7 @@
+/* Custom CSS for additional tweaks not covered by Bootstrap utilities */
+
+/* Setting minimum height on app body to allow footer at bottom */
+html,
+body {
+  height: 100%;
+}
